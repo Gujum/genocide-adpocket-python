@@ -78,12 +78,12 @@ class AdPocket:
 
 	def getAds(self):
 		# REDACTED
-		# due to app privacy
+		# due to app policy
 		pass
 
 	def interactAd(self):
 		# REDACTED
-		# due to app privacy
+		# due to app policy
 		pass
 
 	def exploitServer(self):
